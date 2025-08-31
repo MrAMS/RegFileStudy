@@ -86,13 +86,13 @@ MAVEN_SHORT_DEPS = {
     #"io.circe:circe-parser": CIRCE_VERSION,
     "io.circe:circe-yaml": "1.15.0",
     "org.json4s:json4s-native": "4.0.7",
-    "org.chipsalliance:chisel": "7.0.0-RC3",
+    "org.chipsalliance:chisel": "7.0.0-RC4",
     "org.chipsalliance:firtool-resolver": "2.0.1",
     "org.scalatest:scalatest": "3.2.19",
 }
 
 MAVEN_LONG_DEPS = {
-    "org.chipsalliance:chisel-plugin": "7.0.0-RC3",
+    "org.chipsalliance:chisel-plugin": "7.0.0-RC4",
     "org.scalameta:semanticdb-scalac": "4.13.6",
 }
 
